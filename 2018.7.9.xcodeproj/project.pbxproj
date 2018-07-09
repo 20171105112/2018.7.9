@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		8EFCB3D820F3346400AEF576 /* 2018.7.9 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 2018.7.9; sourceTree = BUILT_PRODUCTS_DIR; };
 		8EFCB3DB20F3346400AEF576 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		8EFCB3E220F334C400AEF576 /* huanghong.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = huanghong.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				8EFCB3DB20F3346400AEF576 /* main.c */,
+				8EFCB3E220F334C400AEF576 /* huanghong.csv */,
 			);
 			path = 2018.7.9;
 			sourceTree = "<group>";
